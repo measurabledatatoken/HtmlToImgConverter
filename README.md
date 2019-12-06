@@ -8,3 +8,4 @@ Options:
   -o, --output <output>  the directory to export the image
   -h, --help             output usage information
 ``````
+
